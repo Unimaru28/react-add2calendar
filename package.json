@@ -1,0 +1,29 @@
+{
+    "name": "reqact-add2calendar",
+    "author": "quanna",
+    "description": "A simple and reusable add to calendar button component for React",
+    "version": "0.0.1",
+    "homepage": "https://github.com/Unimaru28/react-add2calendar",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Unimaru28/react-add2calendar.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Unimaru28/react-add2calendar/issues"
+    },
+    "keywords": [
+        "react",
+        "add-to-calendar",
+        "calendar",
+        "event",
+        "react-component"
+    ],
+    "devDependencies": {
+        "node-sass": "^8.0.0",
+        "react": "^17.0.1"
+    },
+    "peerDependencies": {
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1"
+    },
+}
